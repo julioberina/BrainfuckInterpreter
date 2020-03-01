@@ -1,0 +1,11 @@
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\netcoreapp3.1\BrainfuckInterpreter.exe
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\netcoreapp3.1\BrainfuckInterpreter.deps.json
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\netcoreapp3.1\BrainfuckInterpreter.runtimeconfig.json
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\netcoreapp3.1\BrainfuckInterpreter.runtimeconfig.dev.json
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\netcoreapp3.1\BrainfuckInterpreter.dll
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\bin\Debug\netcoreapp3.1\BrainfuckInterpreter.pdb
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\netcoreapp3.1\BrainfuckInterpreter.csprojAssemblyReference.cache
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\netcoreapp3.1\BrainfuckInterpreter.AssemblyInfoInputs.cache
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\netcoreapp3.1\BrainfuckInterpreter.AssemblyInfo.cs
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\netcoreapp3.1\BrainfuckInterpreter.dll
+C:\Users\julio\source\repos\BrainfuckInterpreter\BrainfuckInterpreter\obj\Debug\netcoreapp3.1\BrainfuckInterpreter.pdb
